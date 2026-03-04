@@ -1,0 +1,2 @@
+- Spotify liked songs export (personal data).
+- Python + pandas used for wrangling and analysis.
